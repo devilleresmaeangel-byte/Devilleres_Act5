@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Angel Mae O. Devilleres</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Welcome to My Autobiography</h1>
+
+    <hr>
+
+    <img src="angel.jpg" alt="My Picture" width="250">
+
+    <h2>Angel Mae O. Devilleres</h2>
+
+    <h3>"Believe in yourself and never give up."</h3>
+
+    <p>
+        Hi! My name is Angel Mae O. Devilleres.
+        I am a first-year Bachelor of Science in Information Technology
+        student. This website shares a little about myself, my Senior
+        High School memories, my interests, and my dreams.
+    </p>
+
+    <h4>About My Website</h4>
+
+    <p>
+        This autobiography has three pages that tell different parts
+        of my story.
+    </p>
+
+    <ul>
+        <li>My Introduction</li>
+        <li>My SHS Days</li>
+        <li>About Me</li>
+    </ul>
+
+    <hr>
+
+    <h5>Explore My Story</h5>
+
+    <p>
+        <a href="index.html">Home</a> |
+        <a href="shs.html">SHS Days</a> |
+        <a href="about.html">About Me</a>
+    </p>
+
+    <h6>Thank you for visiting my website!</h6>
+
+</body>
+</html>
